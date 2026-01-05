@@ -6,7 +6,7 @@
 
 ### Сборка
 
-Собираем проект с помощью `build.sh` (необходимо наличие Git Bash / Linux):
+С помощью `build.sh` (необходимо наличие Git Bash / Linux):
 
 ```bash
 bash scripts/build.sh
@@ -16,7 +16,7 @@ bash scripts/build.sh
 
 ### Инициализация БД
 
-Инициализируем БД с помощью `initDb.sh`, заполняем данными с помощью `fill.sql`
+С помощью `initDb.sh`, заполняем данными с помощью `fill.sql`
 
 ```bash
 bash scripts/initDb.sh
